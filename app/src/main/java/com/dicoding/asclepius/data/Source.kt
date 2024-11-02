@@ -1,0 +1,6 @@
+package com.dicoding.asclepius.data
+
+data class Source(
+    val id: String?,
+    val name: String
+)

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#78FF02</color>
+    <color name="colorPrimaryDark">#55B300</color>
+    <color name="colorAccent">#78FF02</color>
+    <color name="textColor">#000000</color>
+    <color name="backgroundColor">#FFFFFF</color>
+
+    <color name="colorPrimaryDarkDa">#78FF02</color> <!-- Warna utama -->
+    <color name="colorPrimaryDarkDark">#55B300</color> <!-- Warna gelap -->
+    <color name="colorAccentDark">#78FF02</color> <!-- Warna aksen -->
+    <color name="textColorDark">#FFFFFF</color> <!-- Warna teks untuk tema gelap -->
+    <color name="backgroundColorDark">#121212</color>
+
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_700">#7B1FA2</color>
+</resources>

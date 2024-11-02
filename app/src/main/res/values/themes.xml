@@ -1,0 +1,13 @@
+<resources>
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="Theme.Asclepius" parent="Base.Theme.Asclepius">
+
+    </style>
+</resources>
